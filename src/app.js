@@ -24,7 +24,7 @@
    res.render('about',{
       title:'About',
       name:'Created by Shaun',
-      age:42
+      age:22
    })
  })
  app.get('/help',(req,res)=>{
